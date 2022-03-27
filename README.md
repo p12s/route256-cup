@@ -4,8 +4,6 @@
   <p>Free course from Ozon experts</p>
 </article>
 </div>
-<div align="center">
-![go](https://github.com/p12s/route256-cup/blob/main/route256.png?raw=true)
-</div>
+![Go](https://github.com/p12s/route256-cup/blob/main/route256.png?raw=true)    
 Ozon route256 cup simple training tasks  
 Landing page is [here](https://route256.ozon.ru/go-developer)   
